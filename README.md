@@ -4,7 +4,7 @@
 
 <br></br>
 
-<aside align="center" style="background-color: rgba(255, 255, 255, 0.03);">
+<aside style="text-align: center; background-color: rgba(255, 255, 255, 0.03);">
     <br></br>
         <img width="300" alt="profile" src="https://github.com/surimwon/wassup2/assets/161265284/402c53b8-f381-497c-9746-3d742d80058b"></img>
     <br></br>
@@ -18,7 +18,7 @@
 </aside>
 
 
-<h2 align="left"> ✨ What can I do </h2>
+<h2> ✨ What can I do </h2>
 <summary>
   ✍🏻 AI 서비스 UX 시나리오
 </summary>
@@ -54,11 +54,11 @@
 
 
 
-<h2 align="left"> 👋🏻 Let's collaborate together </h2>
+<h2> 👋🏻 Let's collaborate together </h2>
 
 ![contact](https://github.com/surimwon/wassup2/assets/161265284/3a6fe9b2-2700-4ed3-b6aa-55c74cd239f8)
 
-<p align="left">
+<p>
   <a href="mailto:wonsoorim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=wonsoorim@gmail.com"/></a>&nbsp
   <a href="https://www.notion.so/oreumi/ceb6bbd9ceb847c0bb5de8fd87678ace?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=" />
 </p>
