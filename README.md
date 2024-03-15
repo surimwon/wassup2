@@ -56,7 +56,7 @@
 
 <h2> 👋🏻 Let's collaborate together </h2>
 
-![contact](https://github.com/surimwon/wassup2/assets/161265284/3a6fe9b2-2700-4ed3-b6aa-55c74cd239f8)
+![contact](https://raw.githubusercontent.com/surimwon/wassup2/main/contact.png)
 
 <p>
   <a href="mailto:wonsoorim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=wonsoorim@gmail.com"/></a>&nbsp
